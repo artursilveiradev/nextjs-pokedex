@@ -28,7 +28,7 @@ function Home() {
     <Fragment>
       
       <Head>
-        <title>Next.js Pokedéx</title>
+        <title>Next.js Pokédex</title>
         <meta name="description" content="Pokedéx example using Next.js" />
         <link rel="icon" href="favicon.ico" />
       </Head>
